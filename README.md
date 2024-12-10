@@ -35,17 +35,10 @@ Target Audience: This app is targeted towards the younger population who may hav
 
 # Wireframe
 ## Application Icon
+![snack buddy logo](https://github.com/user-attachments/assets/955e7f1c-3410-4ebf-9983-827d10ed20a1)
+ 
 
- <img width="607" alt="Screenshot 2024-10-08 at 6 42 40 PM" src="https://github.com/user-attachments/assets/6a23d63e-19e0-4bb0-9ab6-0161f406c2c0">
+## Initial User Profile + Featured Icons 
+![1](https://github.com/user-attachments/assets/bc8c3ee8-ef5e-46ed-86e1-811da56c54c3)
+![2](https://github.com/user-attachments/assets/ff7861b2-7af5-4263-ac1a-8e54d4e67bc4)
 
-
-## Initial User Profile + Questionnaire 
-<div style="position: relative; width: 100%; height: 0; padding-top: 177.7778%;
- padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
- border-radius: 8px; will-change: transform;">
-  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-    src="https://www.canva.com/design/DAGY6aiqeXM/08UygnnsCHajDGSppRJVlQ/watch?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
-  </iframe>
-</div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGY6aiqeXM&#x2F;08UygnnsCHajDGSppRJVlQ&#x2F;watch?utm_content=DAGY6aiqeXM&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Wireframe</a>
-<img width="344" alt="Screenshot 2024-10-08 at 6 40 41 PM" src="https://github.com/user-attachments/assets/91777b7e-616d-43a9-843f-d4c7aa95d0e9">
